@@ -27,8 +27,6 @@ Check out my latest articles for practical tips and tutorials!
 
 - [Terraform-AWS-S3-and-IAM](https://github.com/5Devanshu/Terraform-AWS-S3-and-IAM): Infrastructure as Code templates for managing AWS S3 buckets and IAM roles.
 - [materializedview](https://github.com/5Devanshu/materializedview): Data engineering utilities for working with materialized views.
-- [okayokayokay](https://github.com/5Devanshu/okayokayokay): (Your project description here)
-- Contributed to [frontend](https://github.com/gunitam11/frontend) and [deposit_defender_app](https://github.com/Sachingupta82/deposit_defender_app)
 
 ## Connect with Me
 
