@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Devanshu! 
 
-<!--
-**5Devanshu/5Devanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Data Engineer** with a strong background in building robust data pipelines and cloud-native solutions. I love working at the intersection of data, cloud infrastructure, and automation.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data Engineering**: ETL, data pipelines, orchestration, and analytics
+- **Cloud Platforms**: AWS (Amazon Web Services), Databricks, Snowflake
+- **DevOps & IaC**: Terraform, Airflow, CI/CD, automated deployments
+- **Web Development**: MERN stack (MongoDB, Express, React, Node.js)
+
+I enjoy leveraging cloud and open-source tools to solve real-world data problems—optimizing for scalability, reliability, and performance.
+
+## Skills & Tools
+
+- **Languages**: Python, JavaScript, SQL
+- **Cloud**: AWS, Databricks, Snowflake
+- **DevOps**: Terraform, Airflow, Docker, GitHub Actions
+- **Web**: MERN Stack, REST APIs
+
+## I Write on Medium
+
+I regularly share my learnings and insights about Data Engineering on [Medium](https://medium.com/@devanshudandekar5).  
+Check out my latest articles for practical tips and tutorials!
+
+## Featured Projects
+
+- [Terraform-AWS-S3-and-IAM](https://github.com/5Devanshu/Terraform-AWS-S3-and-IAM): Infrastructure as Code templates for managing AWS S3 buckets and IAM roles.
+- [materializedview](https://github.com/5Devanshu/materializedview): Data engineering utilities for working with materialized views.
+- [okayokayokay](https://github.com/5Devanshu/okayokayokay): (Your project description here)
+- Contributed to [frontend](https://github.com/gunitam11/frontend) and [deposit_defender_app](https://github.com/Sachingupta82/deposit_defender_app)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/devanshu-dandekar-095bb123b/)
+- [Medium](https://medium.com/@devanshudandekar5)
+
+---
+
+*Let’s collaborate on data-driven projects or chat about cloud, infra, or the latest in tech!*
