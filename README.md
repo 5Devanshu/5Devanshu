@@ -93,13 +93,15 @@ fun_fact: Medium writing on Kafka/Flink/Iceberg recognized by
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=5Devanshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5Devanshu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=5Devanshu&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Devanshu's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5Devanshu&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=5Devanshu&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=5Devanshu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+> Note: these stat cards are powered by free third-party services and can occasionally fail to load or show stale data — if a card looks broken, refresh the page after a minute.
 
 ---
 
