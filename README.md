@@ -1,109 +1,99 @@
-<h1 align="center">Hi there, I'm Devanshu 👋</h1>
+# Devanshu Dandekar
 
-<h3 align="center">Data Engineer | Cloud & Backend Systems | AWS · Databricks · Snowflake</h3>
+**Software Engineer | Data Engineer | AWS, Databricks, Snowflake**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/devanshu-dandekar-095bb123b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@devanshudandekar5">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:devanshudandekar5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Mumbai, India | devanshudandekar5@gmail.com | +91 95941 93572
+[LinkedIn](https://www.linkedin.com/in/devanshu-dandekar-095bb123b/) · [Medium](https://medium.com/@devanshudandekar5) · [GitHub](https://github.com/5Devanshu)
 
 ---
 
-### 🚀 About Me
+## Summary
 
-I'm a software engineer with a growing focus on **data engineering** — building AWS-native pipelines, backend systems, and real-time streaming architectures. I've worked end-to-end across ingestion, transformation, warehousing, and delivery, including an on-site client engagement in **Zambia** where I gathered requirements directly from stakeholders and helped close the deal.
-
-I pick up new stacks fast, enjoy solving real-world data problems, and love working at the intersection of **data, cloud infrastructure, and automation**.
-
-- 🔭 Currently building AWS pipelines, multi-tenant backend systems, and lakehouse architectures
-- 🌱 Deepening my expertise in streaming (Kafka, Flink) and the modern data stack (dbt, Iceberg)
-- 🎓 B.E. in Computer Engineering @ Thakur College of Engineering and Technology (CGPA: 9.76/10)
-- 📝 My Medium articles on Kafka, Airflow, Flink, and Iceberg have been recognized by **Tim Berglund** (VP, Confluent) and **Jason Hughes** (Field CTO, Snowflake)
-- 🔬 Co-author, research publication on detecting Halo CME events using ASPEX particle data from Aditya-L1
+Software engineer with a growing focus on data engineering: AWS pipelines, backend systems, and real-time streaming. Experience working end-to-end across ingestion, transformation, warehousing, and delivery, including an on-site client engagement in Zambia gathering requirements directly from stakeholders. Strong interest in cloud computing and data engineering, with the ability to learn new technology stacks quickly and independently.
 
 ---
 
-### 🛠️ What I Do
+## Core Skills
 
-- **Data Engineering** — ETL/ELT, medallion architecture, orchestration, CDC pipelines, dimensional modeling
-- **Cloud Platforms** — AWS (EC2, S3, Lambda, RDS, SES, SQS, IAM, VPC), Databricks, Snowflake, GCP, Azure
-- **Backend Engineering** — Node.js/Express REST APIs, multi-tenant systems, RBAC, JWT auth, PostgreSQL
-- **DevOps & IaC** — Terraform, Airflow, Docker, Kubernetes, CI/CD
-- **Streaming & Modern Data Stack** — Kafka, Flink, dbt, Apache Iceberg, Delta Lake
+**Languages & Data:** Python, SQL, PySpark, BigQuery SQL, Java, C++, JavaScript, Apache Spark, Kafka, Flink, Airflow, dbt, Apache Iceberg, ETL, ELT, Dimensional Modeling, Data Lakehouse, Data Governance
 
----
+**Databases & BI:** Snowflake, Databricks, PostgreSQL, MySQL, MongoDB, Redis, Oracle, Power BI, Tableau, Looker, Streamlit
 
-### 💻 Tech Stack
+**Cloud & DevOps:** Amazon Web Services (EC2, S3, Lambda, SES, SQS, IAM, VPC, RDS), Google Cloud Platform, Microsoft Azure, Docker, Kubernetes, Terraform, Git, CI/CD
 
-**Languages & Data**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-**Databases & BI**
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-**Web**
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MERN-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Web Development:** Node.js, Express, React, MongoDB (MERN Stack), REST APIs
 
 ---
 
-### 📌 Featured Projects
+## Professional Experience
 
-| Project | Description |
-|---|---|
-| 🎥 **[YouTube Trending Data Pipeline](https://github.com/5Devanshu)** | End-to-end AWS pipeline (Lambda, S3, Glue, Athena, Step Functions, QuickSight) using medallion architecture to analyze trending videos by region/category |
-| 🏗️ **[Lakehouse CDC Pipeline](https://github.com/5Devanshu)** | Databricks + Delta Lake + dbt + Airflow pipeline with CDC-style incremental upserts and a star-schema gold layer for BI |
-| ⚙️ **[Terraform-AWS-S3-and-IAM](https://github.com/5Devanshu/Terraform-AWS-S3-and-IAM)** | Infrastructure-as-Code templates for managing AWS S3 buckets and IAM roles |
-| 📊 **[materializedview](https://github.com/5Devanshu/materializedview)** | Data engineering utilities for working with materialized views |
+**Software Engineer**, Fyre Gig — Remote / Lusaka, Zambia (Client Operations Visit)
+*February 2025 – May 2026*
 
----
-
-### ✍️ I Write on Medium
-
-I regularly share what I'm learning about data engineering — Kafka, Airflow, Flink, Iceberg, and the modern data stack — on [Medium](https://medium.com/@devanshudandekar5). Some of my articles have been recognized by industry leaders at Confluent and Snowflake.
+- Built an 18-table schema on AWS RDS (PostgreSQL) with 42 REST endpoints for a property management system covering tenant lifecycle, GST billing, and reporting workflows
+- Developed backend services for a 20+ module multi-tenant ERP system on AWS EC2 with role-based access control (RBAC) and JWT authentication, delivered using Agile/Scrum methodology
+- Built Node.js and Express REST APIs on AWS RDS with connection pooling, indexing, and query optimization for concurrent multi-tenant workloads
+- Implemented email infrastructure using AWS SES and SQS for a self-hosted system targeting 300,000+ contacts, capturing open rate, click rate, and conversion events with full SPF, DKIM, and DMARC deliverability compliance
+- Designed GDPR-compliant data governance processes including consent management, suppression lists, unsubscribe automation, and audit trails for data lineage and compliance
+- Traveled on-site to Lusaka, Zambia for client engagement, including backend delivery, requirements gathering, and stakeholder presentations
 
 ---
 
-### 📫 Connect with Me
+## Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/devanshu-dandekar-095bb123b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@devanshudandekar5"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:devanshudandekar5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+**YouTube Trending Data Pipeline (AWS)**
+Built an end-to-end data pipeline ingesting data from the YouTube Data API and Kaggle datasets into Amazon S3, structured using medallion architecture (bronze, silver, gold layers). Used AWS Lambda for ingestion and data quality checks with SNS alerting, AWS Glue (Spark) for ETL and schema crawling into the Glue Data Catalog, and Amazon Athena for SQL querying. Orchestrated the workflow with AWS Step Functions and visualized analytics using Amazon QuickSight. Applied S3 lifecycle policies for cost optimization.
+*Technologies: AWS Lambda, Amazon S3, AWS Glue, Amazon Athena, AWS Step Functions, Amazon SNS, Amazon QuickSight, IAM*
+
+**Lakehouse CDC Pipeline (Databricks, dbt, Airflow)**
+Built a lakehouse pipeline ingesting data from a PostgreSQL source and Amazon S3 into Databricks, using Delta Lake for bronze-layer ingestion with change data capture (CDC) style incremental upserts. Used dbt to build silver-layer transformation models and a gold-layer star schema with slowly changing dimensions for business intelligence consumption. Orchestrated dbt runs and Databricks jobs using Apache Airflow.
+*Technologies: Databricks, Delta Lake, dbt, Apache Airflow, PostgreSQL, Apache Spark*
+
+**AWS Infrastructure Automation**
+Built a Terraform module library for EC2, VPC, and IAM resources across AWS and Google Cloud Platform, using S3 remote state and DynamoDB locking. Reduced environment provisioning time from hours to under 10 minutes.
+*Technologies: Terraform, AWS, GCP, Git*
+*Repository: [Terraform-AWS-S3-and-IAM](https://github.com/5Devanshu/Terraform-AWS-S3-and-IAM)*
+
+**Materialized View Utilities**
+Data engineering utilities for working with materialized views.
+*Repository: [materializedview](https://github.com/5Devanshu/materializedview)*
 
 ---
 
-<p align="center"><i>Let's collaborate on data-driven projects, or chat about cloud, infra, or the latest in data engineering! 🚀</i></p>
+## Research Publication
+
+**Detecting HALO CME Events Using Particle Data from ASPEX on Aditya-L1**
+IJEDR, ISSN: 2321-9939, DOI: [10.56975/ijedr.v13i4.302615](https://doi.org/10.56975/ijedr.v13i4.302615)
+Co-authors: Devanshu Dandekar, Rohan Dhiman, Rahul Kaikani, Veena Kulkarni, Sudhir Mundhra
+
+---
+
+## Education
+
+**Thakur College of Engineering and Technology (TCET), Mumbai**
+Bachelor of Engineering in Computer Engineering, November 2022 – July 2026
+CGPA: 9.76 / 10
+Relevant Coursework: Data Structures and Algorithms, Operating Systems, Database Management Systems, Computer Networks, Statistics, Machine Learning, Distributed Systems, Object-Oriented Programming
+
+---
+
+## Certifications
+
+- Data Streaming Engineer & Apache Flink — Confluent
+- Spark with Databricks, Snowflake & Airflow — DataVidhya
+- Cybersecurity Analyst — Forage
+
+---
+
+## Writing
+
+Author of technical articles on Kafka, Airflow, Flink, and Apache Iceberg, published on [Medium](https://medium.com/@devanshudandekar5). Work has been recognized by Tim Berglund (VP, Confluent) and Jason Hughes (Field CTO, Snowflake).
+
+---
+
+## Contact
+
+Open to opportunities and collaboration in data engineering, cloud infrastructure, and backend development.
+
+Email: devanshudandekar5@gmail.com
+LinkedIn: [linkedin.com/in/devanshu-dandekar-095bb123b](https://www.linkedin.com/in/devanshu-dandekar-095bb123b/)
